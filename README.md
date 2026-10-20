@@ -1,7 +1,7 @@
 # Comet Flower Audio Labs: Mycelium USB Audio Bridge
 ### Real-Time USB Audio Out for Zoom G1 Four / G1X Four
 
-[![Release](https://img.shields.io/github/v/release/Comet-Flower-Labs/Comet-flower-mycelium-?include_prereleases&color=brightgreen)](https://github.com/Comet-Flower-Labs/Comet-flower-mycelium-/releases)
+[![Release](https://img.shields.io/github/v/release/Comet-Flower-Labs/mycelium-usb-audio?include_prereleases&color=brightgreen)](https://github.com/Comet-Flower-Labs/mycelium-usb-audio/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Target: Zoom G1X Four](https://img.shields.io/badge/Target-Zoom%20G1%20%2F%20G1X%20Four-orange.svg)]()
 
@@ -32,7 +32,7 @@ Unlocks real-time **44.1 kHz 16-bit stereo PCM USB audio streaming** directly fr
 
 ### Step-by-Step:
 1. **Download the latest release:**  
-   Grab `ZOOM G1X FOUR USB Audio Patch (Comet Flower TEST).exe` from the [Releases](https://github.com/Comet-Flower-Labs/Comet-flower-mycelium-/releases) tab.
+   Grab `ZOOM G1X FOUR USB Audio Patch (Comet Flower TEST).exe` from the [Releases](https://github.com/Comet-Flower-Labs/mycelium-usb-audio/releases) tab.
 2. **Enter Firmware Update Mode:**
    * Disconnect USB and power from the pedal.
    * Press and hold **both footswitches** (FS1 and FS2) simultaneously.
