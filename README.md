@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Target: Zoom G1X Four](https://img.shields.io/badge/Target-Zoom%20G1%20%2F%20G1X%20Four-orange.svg)]()
 
-Unlocks real-time **44.1 kHz 16-bit stereo PCM USB audio streaming** directly from the DSP of the Zoom G1 Four and G1X Four over the standard USB connection, turning your multi-effects pedal into a zero-latency audio recording interface for PC, Mac, and Linux.
+Unlocks real-time **44.1 kHz 16-bit stereo PCM USB audio streaming** directly from the DSP of the Zoom G1 Four and G1X Four over the standard USB connection, turning your multi-effects pedal into recording interface for PC, Mac, and Linux.
 
 ---
 
@@ -13,7 +13,7 @@ Unlocks real-time **44.1 kHz 16-bit stereo PCM USB audio streaming** directly fr
 
 * **Plug-and-Play USB Audio Interface:** Streams real-time 16-bit 44.1 kHz stereo audio directly from the pedal's digital output to your computer. Works natively with Windows (WASAPI / DirectSound / MME), macOS (CoreAudio), and Linux (ALSA / JACK).
 * **Zero Host Monitoring Latency:** Monitor directly through the pedal’s headphone / output jack with analog zero latency while tracking in your DAW, OBS, or Audacity.
-* **On-Pedal Hardware Toggle:** Adds a new **`COMET FLOWER`** settings page directly on the pedal's screen (`USB: OFF / AUDIO`) with live software USB replug.
+* **On-Pedal Hardware Toggle:** Adds a new **`COMET FLOWER`** **`CF`** settings page directly on the pedal's screen (`USB: OFF / AUDIO`) with live software USB replug. just page over in the settings and click slot 1 button 
 * **Fast Boot Shortcut:** Power on while holding the **Slot 1 button** to boot straight into USB Audio mode without opening any menus.
 * **100% Non-Destructive Guarantee:** Flashes **ONLY** the main firmware partition (`0x33000`).
   * Preserves 100% of your saved patches (Patches 1–50 remain untouched).
