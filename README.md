@@ -32,7 +32,7 @@ Unlocks real-time **44.1 kHz 16-bit stereo PCM USB audio streaming** directly fr
 
 ### Step-by-Step:
 1. **Download the latest release:**  
-   Grab `ZOOM G1X FOUR USB Audio Patch (Comet Flower TEST).exe` from the [Releases](https://github.com/Comet-Flower-Labs/mycelium-usb-audio/releases) tab.
+   Grab `Comet.Flower.Updater.-.Stereo.USB.Audio.exe` from the [Releases](https://github.com/Comet-Flower-Labs/mycelium-usb-audio/releases) tab.
 2. **Enter Firmware Update Mode:**
    * Disconnect USB and power from the pedal.
    * Press and hold **both footswitches** (FS1 and FS2) simultaneously.
@@ -43,8 +43,8 @@ Unlocks real-time **44.1 kHz 16-bit stereo PCM USB audio streaming** directly fr
      Ready for update
      ```
 3. **Run the Updater:**
-   * Launch `ZOOM G1X FOUR USB Audio Patch (Comet Flower TEST).exe`.
-   * Click **Execute** and wait for the progress bar to complete (~1 minute).
+   * Launch `Comet.Flower.Updater.-.Stereo.USB.Audio.exe`.
+   * Click **FLASH FIRMWARE NOW** and wait for the progress bar to complete (~1 minute).
    * When the pedal displays `Complete!`, disconnect the USB cable.
 
 ---
